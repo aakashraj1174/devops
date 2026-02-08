@@ -1,9 +1,9 @@
 const defaultConfig = {
-    hero_name: "Alex Morgan",
+    hero_name: "Aakash Rajdhami",
     hero_title: "Creative Developer",
     hero_tagline: "Crafting digital experiences that blend creativity with cutting-edge technology.",
     about_text: "I'm a creative developer passionate about modern web technologies.",
-    contact_email: "hello@alexmorgan.dev",
+    contact_email: "aakashrajdhami174@gmail.com",
     background_color: "#0a0a0f",
     surface_color: "#16161f",
     text_color: "#f0f0f5",
