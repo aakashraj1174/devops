@@ -4,8 +4,7 @@ pipeline {
         pollSCM ('* * * * *')
     }
 
-    }
-    stages{
+    stages {
         stage('pull code from github'){
             steps {
             git branch: 'main', url: 'https://github.com/aakashraj1174/devops.git'
@@ -30,4 +29,5 @@ pipeline {
                 '''
             }
         }
-    }
+}
+}
